@@ -37,6 +37,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'dotenv-rails', groups: [:development, :test]
 
+gem 'cloudinary', '~> 1.9.1'
+
 # Front gem
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3'
